@@ -68,6 +68,21 @@ This NEMA17 stepper motor is widely used in the 3D printing community for many 3
 * Step angle: 1.8 deg
 * Widely used in the 3D printing community
 
+## Connection and code
+How to Use Arduino L293D Motor Driver Shield?
+While using this shield 6 analog Pins (which can be used as digital pins too), pin 2 and pin 13 of arduino are free.
+
+In the case of using Servo motor, pins 9, 10, 2 are in use.
+
+In the case of using DC motor, pin11 for #1, pin3 for #2, pin5 for #3, pin6 for #4 and pins 4, 7, 8 and 12 for all of them are in use.
+
+In the case of using Stepper motor, pins 11 and 3 for #1, pins 5 and 6 for #2 and pins 4, 7, 8 and 12 for all of them are in use.
+
+You can use free pins by wired connections.
+
+If you are applying separate power supply to Arduino and shield, make sure you have disconnected the jumper on the shield.
+
+
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
