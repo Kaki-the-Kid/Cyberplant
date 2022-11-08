@@ -45,5 +45,8 @@ https://learn.adafruit.com/photocells
 [TODO]
 
 # Bevægelse platform
+## Motor styring
+![image](https://user-images.githubusercontent.com/44589560/200569812-3a481e91-7a62-4b0c-b3c1-e902881bf287.png)
+
 
 # Cloud
