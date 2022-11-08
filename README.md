@@ -32,11 +32,12 @@ Sæt købt ved Arduino Tech
 Beskrivelse
 CdS-celler er små lyssensorer. Efterhånden som det snoede ansigt udsættes for mere lys, falder modstanden. Når det er lyst, er modstanden omkring ~1KΩ, når det er mørkt, går det op til ~10KΩ.
 
-For at bruge, skal du tilslutte den ene side af fotocellen (enten er den symmetrisk) til strøm (for eksempel 5V) og den anden side til din mikrocontrollers analoge inputpin. Tilslut derefter en 10K pull-down modstand fra den analoge ben til jord. Spændingen på pinden vil være 2,5V eller højere, når den er lys ude og nær jorden, når det er mørkt.
+For at bruge, skal du tilslutte den ene side af fotocellen (enten eller den er symmetrisk) til spændomg (for eksempel 5V) og den anden side til din mikrocontrollers analoge inputpin. Tilslut derefter en 10K pull-down modstand fra den analoge ben til jord. Spændingen på pinden vil være 2,5V eller højere, når den er lys ude og nær jorden, når det er mørkt.
 
 ![image](https://user-images.githubusercontent.com/44589560/200553497-223deff9-4369-4d50-ab43-994e0d011bae.png)
 
-
+Reference:
+https://learn.adafruit.com/photocells
 ## PH
 [TODO]
 
