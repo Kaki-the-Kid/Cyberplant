@@ -24,7 +24,15 @@ Sæt købt ved Arduino Tech
 ![image](https://user-images.githubusercontent.com/44589560/200537674-326a1ffe-a5b2-4fe5-9cb8-610e46ef8117.png)
 
 ## Jordfugtighed
-
 ![image](https://user-images.githubusercontent.com/44589560/200332295-60ffcc1e-b3e0-44a1-9745-a2285323bc2b.png)
 
-## Bevægelse platform
+## Lysmåler
+Simpel LDR -> Flere styk -> Retningsbestemmelse
+
+## PH
+[TODO]
+
+## Iltindhold
+[TODO]
+
+# Bevægelse platform
