@@ -82,6 +82,15 @@ You can use free pins by wired connections.
 
 If you are applying separate power supply to Arduino and shield, make sure you have disconnected the jumper on the shield.
 
+I'm swapping out my motors and picked up a set of Kysan Nema 17 1124090. The wire colors don't match "Type A” or "Type B" like my other motors. They're blue, yellow, green, red (D, B, C, A respectively according to the data sheet)
+
+Forget the color of "the connector with wire", follow type B, make sure the wire of motor is connected as picture.
+
+Y -> B1
+B -> B2
+G -> A2
+R -> A1
+
 
 
 ## Arduino biblioteker
