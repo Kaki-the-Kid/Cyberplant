@@ -97,7 +97,7 @@ B -> B2
 ![image](https://user-images.githubusercontent.com/44589560/200571927-0f8476b4-6e81-44c9-b525-2a3624d343a6.png)
 
 Hvis du har det gamle (version af Adafrui Shield)
-![image](https://user-images.githubusercontent.com/44589560/200577810-3b39fe12-3909-4a23-8d07-5ab372d3b002.png)
+![image](https://user-images.githubusercontent.com/44589560/200578076-ff5cf16a-4972-4715-a208-dfc08436f4ab.png)
 
 
 # Cloud
