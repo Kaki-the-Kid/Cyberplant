@@ -86,7 +86,7 @@ I'm swapping out my motors and picked up a set of Kysan Nema 17 1124090. The wir
 
 Forget the color of "the connector with wire", follow type B, make sure the wire of motor is connected as picture.
 
-R -> A1<b />
+R -> A1<br />
 G -> A2<br />
 Y -> B1<br />
 B -> B2
