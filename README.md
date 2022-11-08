@@ -50,6 +50,20 @@ https://learn.adafruit.com/photocells
 
 ## Motor
 ![image](https://user-images.githubusercontent.com/44589560/200572280-a37de2d5-c9ac-422d-91d8-33649d36948a.png)
+This NEMA17 stepper motor is widely used in the 3D printing community for many 3D printer models.
+
+### Specifications:
+
+* Model: Kysan 1124090
+* Rated voltage: 4.2 V
+* Holding torque: 5.5 Kg-cm (54 N-cm, 76.4 Oz/in)
+* Number of phase: 2
+* Current / phase: 1.5 A
+* Resistance / phase: 2.8 Ohms +/- 10%
+* Inductance / phase: 4.8 Mh +/- 20%
+* Insulation resistance: 100 Mega-ohms (500 VDC)
+* Operation temperature: -20 deg C to 40 deg C
+* Shaft diameter: 5 mm (0.2 in) flatted
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
