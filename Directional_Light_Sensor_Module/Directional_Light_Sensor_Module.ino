@@ -3,16 +3,13 @@
   
     Parts required:
     - Arduino Board
-    - 4 x LDR (Light Dependent Resistor) http://adafru.it/161
+    - 4 x CdS cells  http://adafru.it/161
 
-  Programming by : René Rasmussen
-  Website : www.it-teknolog.dk
-  Contact : renerasmussen@it-teknolog.dk
-  Date : 18 Dec 2019
-  Version : v1.0
-
-  Modulet kan købes på www.arduinotech.dk
-
+    Programming by : Karsten Reitan Sørensen
+    Website : www.ats-skpdatait.dk
+    Contact : krs@aarhustech.dk
+    Date : 8 Nov 2022
+    Version : v1.0
 */
 
 const int capture_D = 2;                          // set capture_D as Digital Port D2
