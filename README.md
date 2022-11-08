@@ -10,6 +10,8 @@ Det undersøges i hvilket omfang man kan udvidde planten indflydelse på omgivel
 * Planter agerer langsomt med omgivelserne, kan kommunikationen speedes op og i hvilket omfang.
 * Kan en plante selv styre omgivelser og kan den styre sig
 * Kan man måle plantens følelser/humør/tilstand
+* Kan planten kommuninikere med omgivelser via online/remote bruger interaktion
+* 
 
 ![image](https://user-images.githubusercontent.com/44589560/200331914-e9e358de-bee5-4d37-8097-b0f0e45fc8b9.png)
 
