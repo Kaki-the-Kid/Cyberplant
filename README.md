@@ -8,7 +8,8 @@ Det undersøges i hvilket omfang man kan udvidde planten indflydelse på omgivel
 ### Ønskeliste til projektet i tilfældig rækkefølge
 * Cloud forbindelse.
 * Planter agerer langsomt med omgivelserne, kan kommunikationen speedes op og i hvilket omfang.
-* Kan en plante selv styre omgivelser
+* Kan en plante selv styre omgivelser og kan den styre sig
+* Kan man måle plantens følelser/humør/tilstand
 
 ![image](https://user-images.githubusercontent.com/44589560/200331914-e9e358de-bee5-4d37-8097-b0f0e45fc8b9.png)
 
