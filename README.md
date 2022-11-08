@@ -48,7 +48,10 @@ https://learn.adafruit.com/photocells
 ## Motor styring
 ![image](https://user-images.githubusercontent.com/44589560/200569812-3a481e91-7a62-4b0c-b3c1-e902881bf287.png)
 
-### Arduino biblioteker
+## Motor
+![image](https://user-images.githubusercontent.com/44589560/200572280-a37de2d5-c9ac-422d-91d8-33649d36948a.png)
+
+## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
 
 ![image](https://user-images.githubusercontent.com/44589560/200571927-0f8476b4-6e81-44c9-b525-2a3624d343a6.png)
