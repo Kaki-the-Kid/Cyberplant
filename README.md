@@ -27,7 +27,11 @@ Sæt købt ved Arduino Tech
 ![image](https://user-images.githubusercontent.com/44589560/200332295-60ffcc1e-b3e0-44a1-9745-a2285323bc2b.png)
 
 ## Lysmåler
-Simpel LDR -> Flere styk -> Retningsbestemmelse
+[TODO] Simpel LDR -> Flere styk -> Retningsbestemmelse
+
+Hvad er en LDR og hvordan reagerer den
+![image](https://user-images.githubusercontent.com/44589560/200553497-223deff9-4369-4d50-ab43-994e0d011bae.png)
+
 
 ## PH
 [TODO]
