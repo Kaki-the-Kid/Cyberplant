@@ -3,7 +3,7 @@
   
     Parts required:
     - Arduino Board
-    - 4 x LDR (Light Dependent Resistor)
+    - 4 x LDR (Light Dependent Resistor) http://adafru.it/161
 
   Programming by : René Rasmussen
   Website : www.it-teknolog.dk
