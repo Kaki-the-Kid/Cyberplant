@@ -64,6 +64,10 @@ This NEMA17 stepper motor is widely used in the 3D printing community for many 3
 * Insulation resistance: 100 Mega-ohms (500 VDC)
 * Operation temperature: -20 deg C to 40 deg C
 * Shaft diameter: 5 mm (0.2 in) flatted
+* Holding torque: 5.5 Kg-cm (54 N-cm, 76.4 Oz/in)
+* Step angle: 1.8 deg
+* Widely used in the 3D printing community
+
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
