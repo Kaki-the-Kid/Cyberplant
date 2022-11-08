@@ -36,3 +36,5 @@ Simpel LDR -> Flere styk -> Retningsbestemmelse
 [TODO]
 
 # Bevægelse platform
+
+# Cloud
