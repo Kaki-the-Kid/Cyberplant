@@ -86,12 +86,10 @@ I'm swapping out my motors and picked up a set of Kysan Nema 17 1124090. The wir
 
 Forget the color of "the connector with wire", follow type B, make sure the wire of motor is connected as picture.
 
-Y -> B1
+R -> A1<b />
+G -> A2<br />
+Y -> B1<br />
 B -> B2
-G -> A2
-R -> A1
-
-
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
