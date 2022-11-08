@@ -21,6 +21,8 @@ Det undersøges i hvilket omfang man kan udvidde planten indflydelse på omgivel
 Sæt købt ved Arduino Tech
 
 # Miljø målinger
+https://havehandel.dk/wp-content/uploads/2021/10/HH3i1maaler.jpg
+
 ## Jordfugtighed
 
 ![image](https://user-images.githubusercontent.com/44589560/200332295-60ffcc1e-b3e0-44a1-9745-a2285323bc2b.png)
