@@ -103,6 +103,7 @@ B -> B2
 * https://dronebotworkshop.com/stepper-motors-with-arduino/
 * https://learn.adafruit.com/adafruit-motor-shield/downloads
 * https://create.arduino.cc/projecthub/electropeak/arduino-l293d-motor-driver-shield-tutorial-c1ac9b
+* https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
