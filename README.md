@@ -105,6 +105,7 @@ B -> B2
 * https://create.arduino.cc/projecthub/electropeak/arduino-l293d-motor-driver-shield-tutorial-c1ac9b
 * https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/
 * https://github.com/adafruit/Adafruit_Motor-Shield-v1
+* https://learn.adafruit.com/adafruit-motor-shield/resources
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
