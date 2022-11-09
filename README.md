@@ -26,6 +26,10 @@ Sæt købt ved Arduino Tech
 ## Jordfugtighed
 ![image](https://user-images.githubusercontent.com/44589560/200332295-60ffcc1e-b3e0-44a1-9745-a2285323bc2b.png)
 
+### Referencer - jordfugtighed
+* https://www.youtube.com/watch?v=pgGpuws7f9o
+
+
 ## Lysmåler
 [TODO] Simpel LDR -> Flere styk -> Retningsbestemmelse
 
@@ -90,6 +94,10 @@ R -> A1<br />
 G -> A2<br />
 Y -> B1<br />
 B -> B2
+
+## Motor referencer
+* https://github.com/CuriosityGym/motordriver
+* https://learn.adafruit.com/adafruit-motor-shield?view=all
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
