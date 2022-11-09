@@ -19,6 +19,8 @@ Det undersøges i hvilket omfang man kan udvidde planten indflydelse på omgivel
 ![image](https://user-images.githubusercontent.com/44589560/200331914-e9e358de-bee5-4d37-8097-b0f0e45fc8b9.png)
 
 Sæt købt ved Arduino Tech
+###References
+https://www.instructables.com/DIY-Automatic-Plant-Watering-System/
 
 # Miljø målinger
 ![image](https://user-images.githubusercontent.com/44589560/200537674-326a1ffe-a5b2-4fe5-9cb8-610e46ef8117.png)
