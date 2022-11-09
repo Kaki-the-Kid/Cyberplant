@@ -96,6 +96,10 @@ B -> B2
 
 ![image](https://user-images.githubusercontent.com/44589560/200571927-0f8476b4-6e81-44c9-b525-2a3624d343a6.png)
 
+Hvis du har det gamle (version af Adafrui Shield)
+Se mere på: https://github.com/CuriosityGym/motordriver<br />
+og du kan implementere det igennem Arduino Library Manager
+![image](https://user-images.githubusercontent.com/44589560/200578076-ff5cf16a-4972-4715-a208-dfc08436f4ab.png)
 
 
 # Cloud
