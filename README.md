@@ -99,6 +99,7 @@ B -> B2
 * https://github.com/CuriosityGym/motordriver
 * https://learn.adafruit.com/adafruit-motor-shield?view=all
 * https://dronebotworkshop.com/stepper-motors-with-arduino/
+* https://learn.adafruit.com/adafruit-motor-shield/downloads
 
 ## Arduino biblioteker
 ![image](https://user-images.githubusercontent.com/44589560/200571845-7e60d7ff-b958-4db7-8c88-9cf098134d10.png)
