@@ -1,6 +1,9 @@
 # Solar Compass
 
 # Arduino Nano
+## Specs 
+https://docs.arduino.cc/hardware/nano
+
 ## Pinout
 ![image](https://user-images.githubusercontent.com/44589560/201916338-a2d3ea0d-214c-4934-bbfb-d390d78bbc98.png)
 
