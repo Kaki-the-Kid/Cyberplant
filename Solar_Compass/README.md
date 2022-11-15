@@ -2,7 +2,7 @@
 
 # Arduino Nano
 ## Pinout
-![image](https://user-images.githubusercontent.com/44589560/201891401-abd1b91a-9786-4545-97c3-6881f9129e98.png)
+![image](https://user-images.githubusercontent.com/44589560/201916338-a2d3ea0d-214c-4934-bbfb-d390d78bbc98.png)
 
 ## Analog channel
 The four directions in the compass is connected to a analog channel on the arduno, with a pull down resistor, show below.
