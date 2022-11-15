@@ -8,6 +8,10 @@
 The four directions in the compass is connected to a analog channel on the arduno, with a pull down resistor, show below.
 ![image](https://user-images.githubusercontent.com/44589560/201906951-660a846c-a439-447e-9d2b-d1806e7c79a7.png)
 
+## Board setup
+![image](https://user-images.githubusercontent.com/44589560/201929221-8204589a-25f3-4151-a52f-d69fde7f68bc.png)
+
+
 ## SPI communication from Raspberri Pi
 ### Documentation: https://docs.arduino.cc/learn/communication/spi
 
