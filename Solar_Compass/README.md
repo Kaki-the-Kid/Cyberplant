@@ -6,3 +6,5 @@
 
 ## Analog channel
 ![image](https://user-images.githubusercontent.com/44589560/201906951-660a846c-a439-447e-9d2b-d1806e7c79a7.png)
+
+## SPI communication
